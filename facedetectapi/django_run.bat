@@ -1,0 +1,1 @@
+D:\IVANA\facedetectapi\venv\Scripts\python.exe D:\IVANA\facedetectapi\manage.py runserver 0.0.0.0:8080

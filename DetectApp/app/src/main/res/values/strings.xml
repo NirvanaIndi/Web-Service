@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iphone_se___1 strings -->
+
+    <string name="app_name">Gender App</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="gender_app_string">GENDER APP</string>
+    <string name="detection_string">Detection</string>
+    <string name="history_string">History</string>
+    <string name="about_string">About</string>
+    <string name="detection_ek1_string">Detection</string>
+    <string name="choose_file_string">Choose File</string>
+    <string name="detect_string">Detect</string>
+    <string name="information___status___sukses_deteksi___perempuan_string">Information :Status     : SuksesDeteksi  : Perempuan</string>
+    <string name="history_ek1_string">History</string>
+    <string name="about_ek1_string">About</string>
+    <string name="gender_app_nirvana_indiranjani_19090046_string">Gender AppNirvana Indiranjani19090046</string>
+</resources>
